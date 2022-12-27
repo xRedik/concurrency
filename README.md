@@ -1,4 +1,4 @@
-# Concurrency
+# Grayscale to colored image
 
 <!-- TABLE OF CONTENTS -->
 <details>
