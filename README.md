@@ -51,8 +51,8 @@
 </details>
 
 
-## Assignment Description
-The main task of the Assignment is to write a program to convert the greyscale image to the colored image using multi-threaded programming.  
+## Description
+The program is for converting the greyscale image to the colored image using multi-threaded programming.  
 ### Built With
 
 #### OpenCV
