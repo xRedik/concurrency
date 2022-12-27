@@ -1,4 +1,4 @@
-# Concurrency (Farid Guliyev)
+# Concurrency
 
 <!-- TABLE OF CONTENTS -->
 <details>
