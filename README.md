@@ -1,4 +1,4 @@
-# Assignment 3 Concurrency (Farid Guliyev)
+# Concurrency (Farid Guliyev)
 
 <!-- TABLE OF CONTENTS -->
 <details>
