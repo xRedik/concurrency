@@ -1,4 +1,4 @@
-# Grayscale to colored image
+# Grayscale to color
 
 <!-- TABLE OF CONTENTS -->
 <details>
